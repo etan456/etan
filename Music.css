@@ -1,0 +1,27 @@
+    body {
+        background-image: url("https://media.giphy.com/media/26vUEdOdA73F52stG/giphy.gif");
+        font-family: arial;
+    
+    }
+    p {
+    color: White;
+    
+}
+    #text {
+        text-align: center;
+    }
+    h1 {
+        color: White;
+        text-align: center;
+        text-decoration: underline;
+        
+    }
+    .square{
+    Height: 20px;
+    width: 59px;
+    border-radius: 40px;
+    float: left;
+}
+#one{
+   background-color:blue
+    }

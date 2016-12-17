@@ -1,7 +1,6 @@
 body{
-    background-color: black;
-    color:white;
-    font-size: larger
+    background-color: orange;
+    font-size: larger;
     
    }
    h1{
@@ -9,5 +8,5 @@ body{
    }
    h2 {text-decoration: underline }
    a{
-       color: orange;
+       color: red;
    }
